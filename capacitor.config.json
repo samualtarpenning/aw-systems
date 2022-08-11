@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "auto-watering-services",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

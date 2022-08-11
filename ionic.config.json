@@ -1,0 +1,7 @@
+{
+  "name": "auto-watering-services",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
